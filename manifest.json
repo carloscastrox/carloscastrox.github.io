@@ -1,6 +1,6 @@
 {
-    "name": "project_viernes",
-    "short_name": "project_viernes",
+    "name": "apis",
+    "short_name": "apis",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
